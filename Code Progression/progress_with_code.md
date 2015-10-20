@@ -100,17 +100,25 @@ I also received some feedback that the presentation assumed that the audience wa
 ## Code Wars (Lecture 3/4)
 #### (Lecture 3)
 
+To help improve our knowledge of Javascript and jQuery, we are using Code Wars. It is a web Application which users have created Kata's that you solve to gain points. These points then rank you in the Leaderboards and in your Clan. My class are in the "Rave Web Media" clan, this allows us to see each others progress and encourages us to compete and therefore learn.
 
+**Here is my CodeWars Profile**
+![image](https://github.com/TomSharmanWeb/DynamicWeb/blob/master/Code%20Progression/Images/Screen%20Shot%202015-10-21%20at%2000.36.44.png)
 
-- Introduction to Code Wars
-- Show examples of kata's completed
-- Instagram API (beta) by Matteo
-- Ranking up (Progress)
-- Accident with kata 4
+I have completed a number of Kata's. I have found this an intense and hard way of learning, but effective nevertheless. Rather than be told what to do, it's great to experiment with different ways and try to work it out through practise and gain experience doing that. I feel that this is an effective way of Learning jQuery and Javascript. An example of a Kata I completed was the Instagram API Beta Kata by Matteo. We did this together in class and helped us gain a better understanding of how Instagram API's can be implemented into a site. This is important as we plan to do something using Instagram's API for our Filter Bubble Project.
+
+![image](https://github.com/TomSharmanWeb/DynamicWeb/blob/master/Code%20Progression/Images/Screen%20Shot%202015-10-21%20at%2000.37.32.png)
+
+Whilst Experimenting on CodeWars, I was intrigued to How difficult Rank 4 Kata's were in comparison. I then decided to Google the solution and found a way, I accidentally then submitted this and it ranked me up 2 levels. This is why I am level 6, whereas If i did it properly I'd be Level 7 (19th October 2015). -** oops!**
+
+![image](https://github.com/TomSharmanWeb/DynamicWeb/blob/master/Code%20Progression/Images/Screen%20Shot%202015-10-21%20at%2000.44.13.png)
+
 
 [5]:
 ## jQuery Fundimentals Presentation
 #### (Lecture 4)
+
+TBC
  
  
 
