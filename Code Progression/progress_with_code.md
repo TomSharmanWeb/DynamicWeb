@@ -49,26 +49,50 @@ I have discussed my [Learning Goals]() for this unit. This lists three things in
 
 *** 
 
-
-
 [1]: 
 ## jQuery Recap
 #### (Lecture 1)
 
+In the first Lecture, we were reintroduced to jQuery. Previously at the end of the first level, we looked into using jQuery and understood the basics. Over the summer, some of us experimented with Javascript however as not everyone did, we went over the very basics again.
 
+This was very good to get a better understanding and clearer definition of the elements that are in jQuery. For example, functions and variables.
+
+We were shown code and from this could play around with the very basics. 
 
 
 [2]: 
 ## Introduction to API's
 #### (Lecture 1)
 
+We also looked at what API's are and how they are used within websites and databases. I gained a greater Understanding of protocols being a set of rules and conventions and thought how these could apply to API's. In class, we also looked at technical protocols that we find on the web (e.g: HTTP, HTTPS, TCP/IP, DNS).
+
+To help us better understand API's, we were shown how they are just like Interfaces. From the interface on your Gas Cooker, to your favourite App. Icons are used to help you interact with something. API's are essentially Interfaces to Programme Applications... Hint API's standing for Application Programming Interface.. durr.
+
+
 [3]:
 ## Below the API Presentation
 #### (Lecture 2)
 
+
+
+- introduction to presentation/purpose of task
+- good feedback
+	- confident
+	- engaging (created conversation)
+	- good way to display facts, using minimal text on page 		but use of images and icons - then say the facts 		(notes)
+- Bad feedback
+- - not interactive with audience
+- assumed audiences knew what API's were. Should have explained in basic terms from start.
+
 [4]:
 ## Code Wars (Lecture 3)
 #### (Lecture 3)
+
+- Introduction to Code Wars
+- Show examples of kata's completed
+- Instagram API (beta) by Matteo
+- Ranking up (Progress)
+- Accident with kata 4
 
 [5]:
 ## jQuery Fundimentals Presentation
