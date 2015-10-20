@@ -69,24 +69,38 @@ We also looked at what API's are and how they are used within websites and datab
 To help us better understand API's, we were shown how they are just like Interfaces. From the interface on your Gas Cooker, to your favourite App. Icons are used to help you interact with something. API's are essentially Interfaces to Programme Applications... Hint API's standing for Application Programming Interface.. durr.
 
 
+
+
 [3]:
 ## Below the API Presentation
 #### (Lecture 2)
 
+Myself, Johan and Ade were given the task of discussing Below the API to the class to inform them of what it is. We presented this through a Google Sheets Presentation. It aimed to give an insight to what it is, how it is being used within multiple industries and identify case studies such as Google and Uber who are using a Below the API technique to remove middle management within the work force and replace them with technologies and robots. 
 
 
-- introduction to presentation/purpose of task
-- good feedback
-	- confident
-	- engaging (created conversation)
-	- good way to display facts, using minimal text on page 		but use of images and icons - then say the facts 		(notes)
-- Bad feedback
-- - not interactive with audience
-- assumed audiences knew what API's were. Should have explained in basic terms from start.
+
+#### [View Presentation](https://github.com/TomSharmanWeb/DynamicWeb/blob/master/Below%20The%20API%20Presentation/Below%20The%20API%20Presentation.pdf)
+
+### Positive Feedback
+
+We gathered feedback from our Peers to improve for future presentations. A positive piece of feedback that we received was that we were confident and seemed to know what we were talking about. I believe that this was achieved by doing research into the subject not only from the source given to us, but extensive research around the topic and how it could become even bigger and use resources to predict the future of 'Below the API'.
+
+Another positive point we got was that it was engaging. One peer said that we created conversation  by asking questions throughout to the audience to get their opinions. I decided that this would be great to keep everyone interested throughout the entire presentation. We would then ask a particular peer their thoughts on this and then question them further on their answer. This would create conversation and encourage others to join in. I feel that this was a huge success to our presentation.
+
+Another Peer also said that the way we displayed the presentation was very simple by effective. I believe was this due to the use of icons and images, with key words rather than it being text heavy. We then each had notes on what we needed to mention so could refer to these. This then meant that we weren't just reading from a screen, which they could do, but provides extra information to encourage them to listen to what we have to say.  
+
+### Negative Feedback
+
+Through peer assessments of the presentation we also found a few negative points that we could learn from to improve our presenting skills for future tasks. One bit of feedback was that it wasn't as Interactive as it could have been like some of the other presentations from other groups in the class. I completely agree with this feedback and feel as though we could have implemented ways in which we could explain it by assigning tasks to the peers. This would help them understand and keep them engaged on a deeper level than just asking questions.
+
+I also received some feedback that the presentation assumed that the audience was familiar with API's already and their basic understanding. They said that some people may not have known what they were and maybe should have briefly gave a definition or example in which it is used simply. I agree with this feedback and feel that it is something that I wish I did and would if given another chance.
+
 
 [4]:
-## Code Wars (Lecture 3)
+## Code Wars (Lecture 3/4)
 #### (Lecture 3)
+
+
 
 - Introduction to Code Wars
 - Show examples of kata's completed
