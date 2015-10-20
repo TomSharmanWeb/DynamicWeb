@@ -68,7 +68,7 @@ We also looked at what API's are and how they are used within websites and datab
 
 To help us better understand API's, we were shown how they are just like Interfaces. From the interface on your Gas Cooker, to your favourite App. Icons are used to help you interact with something. API's are essentially Interfaces to Programme Applications... Hint API's standing for Application Programming Interface.. durr.
 
-
+![image](https://github.com/TomSharmanWeb/DynamicWeb/blob/master/Code%20Progression/Images/687474703a2f2f67726f75702e323030382e676f72656e6a652e63632f656e2f696d6167656c69622f6d61676e69666965642f70726573732f323031332f6765726d616e792f6c6976696e6b69746368656e2f676f72656e6a655f706c75735f6c6b2f672d686f622d612d6761732d686561746572732e6.jpeg)
 
 
 [3]:
@@ -77,7 +77,7 @@ To help us better understand API's, we were shown how they are just like Interfa
 
 Myself, Johan and Ade were given the task of discussing Below the API to the class to inform them of what it is. We presented this through a Google Sheets Presentation. It aimed to give an insight to what it is, how it is being used within multiple industries and identify case studies such as Google and Uber who are using a Below the API technique to remove middle management within the work force and replace them with technologies and robots. 
 
-
+![image](https://github.com/TomSharmanWeb/DynamicWeb/blob/master/Below%20The%20API%20Presentation/Below%20The%20API%20Presentation.pdf))
 
 #### [View Presentation](https://github.com/TomSharmanWeb/DynamicWeb/blob/master/Below%20The%20API%20Presentation/Below%20The%20API%20Presentation.pdf)
 
