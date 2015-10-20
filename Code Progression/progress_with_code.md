@@ -77,7 +77,7 @@ To help us better understand API's, we were shown how they are just like Interfa
 
 Myself, Johan and Ade were given the task of discussing Below the API to the class to inform them of what it is. We presented this through a Google Sheets Presentation. It aimed to give an insight to what it is, how it is being used within multiple industries and identify case studies such as Google and Uber who are using a Below the API technique to remove middle management within the work force and replace them with technologies and robots. 
 
-![image](https://github.com/TomSharmanWeb/DynamicWeb/blob/master/Below%20The%20API%20Presentation/Below%20The%20API%20Presentation.pdf)
+![image](https://github.com/TomSharmanWeb/DynamicWeb/blob/master/Code%20Progression/Images/Screen%20Shot%202015-10-21%20at%2000.29.20.png)
 
 #### [View Presentation](https://github.com/TomSharmanWeb/DynamicWeb/blob/master/Below%20The%20API%20Presentation/Below%20The%20API%20Presentation.pdf)
 
