@@ -24,6 +24,8 @@ Was there conflict, how do we fix it?
 
 ![image](https://github.com/TomSharmanWeb/DynamicWeb/blob/master/Formative%20Presentation/Images/hashtagxmas.png)
 
+### [View Presentation](https://docs.google.com/presentation/d/1jEV-TGVNUWhN_ahZcBzk6KoIB-bXAe7NbwaLQE0roqk/edit?usp=sharing)
+
 ## Feedback Received
 
 **Matteo:**
@@ -48,3 +50,6 @@ Ryder:Nice to see a html mockup.
 
 
 
+## Formative Reflection
+
+We received some great feedback 
