@@ -17,7 +17,7 @@ Ravensbourne Web Media Level 2 - Dynamic Web Unit WEB14203
 
 ### Research
 
-- [My Filter Bubbles (Mind Map Illustration)](https://github.com/TomSharmanWeb/DynamicWeb/blob/master/Research/IMG_6154%20.png)
+- [My Filter Bubbles (Mind Map Illustration)](https://github.com/TomSharmanWeb/DynamicWeb/blob/master/Research/IMG_6154.png)
 - [Digital Mock Ups](https://app.moqups.com/Tomsharmanweb/fVuMb8uEzj/view/page/a8b0d92c8)
 - [Mind Map](https://github.com/TomSharmanWeb/DynamicWeb/blob/master/Research/FilterBubbles-MindMap-2.png)
 - [Walkthrough](https://github.com/TomSharmanWeb/DynamicWeb/blob/master/Research/Mockup-Walkthrough.png)
