@@ -86,4 +86,4 @@ Here are my blog posts for this unit:
 	
 	** To Do **
 	
-	[Slides](http://) | [PDF](http://)
+	[Slides](https://docs.google.com/presentation/d/1TaC34toUVc62x_jdL39RYyDFXOTtZ27pcvTW_iQXa9E/edit?usp=sharing) | [PDF](http://)
