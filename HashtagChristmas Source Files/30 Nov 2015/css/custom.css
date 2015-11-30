@@ -1,0 +1,581 @@
+#center {
+    position: relative;
+    height: 100%;
+    width: 512px;
+    margin: 0 auto;
+}
+
+.cont {
+    display: block;
+    z-index: 0;
+}
+
+#contshdow {
+   
+} 
+
+#contShd1 {
+    margin-top: 156px;
+    margin-left: 230px;
+    background: white;
+    position: absolute;
+    width: 512px;
+    height: 512px;
+    border-radius: 50%;
+}
+
+#contShd2 {
+    
+    margin-top: 182.5px;
+    margin-left: 252px;
+    background: white;
+    position: absolute;
+    width: 512px;
+    height: 512px;
+    border-radius: 50%;
+}
+
+
+
+#contShd3 {
+    
+    margin-top: 182.5px;
+    margin-left: 252px;
+    background: white;
+    position: absolute;
+    width: 512px;
+    height: 512px;
+    border-radius: 50%;
+}
+
+#contShd4 {
+    
+    margin-top: 182.5px;
+    margin-left: 252px;
+    background: white;
+    position: absolute;
+    width: 512px;
+    height: 512px;
+    border-radius: 50%;
+}
+
+#cont1 {
+    position: absolute;
+    top: 25%;
+    margin-top: 0px;
+    margin-left: 20%;
+    width: 512px;
+    height: 512px;
+    background: white;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+
+
+
+
+
+#cout1 {
+    
+    
+}
+
+
+#cont2 div {
+    position: absolute;
+    
+    margin-top: 0px;
+    
+    width: 256px;
+    height: 256px;
+    background: white;
+    border-radius: 50%;
+    overflow: hidden; 
+    display: none;
+    /*  z-index: -1;*/
+}
+
+#cont2-1 {
+    top: 185px;
+    margin-left: 258px;
+}
+
+
+
+#cont2-2 {
+    top: 185px;
+    margin-left: 513px;
+    /* margin-left: 256px; */
+}
+
+#cont2-3 {
+    top: 438px;
+    margin-left: 256px;
+}
+
+#cont2-4 {
+    top: 438px;
+    margin-left: 513px;
+}
+
+
+/* hide the direct children of #cont3 */
+/* see https://css-tricks.com/child-and-sibling-selectors/ */
+#cont3 > div {
+    display: none;
+   
+   /* z-index: -2;*/
+}
+
+
+/* Shadow for 16 block Top Left */
+#contShdw2-1-1{
+    margin-top: 186px;
+    margin-left: 256px;
+    background: white;
+    position: absolute;
+    width: 256px;
+    height: 256px;
+    border-radius: 50%;   
+}
+#contShdw2-1-2{
+    margin-top: 186px;
+    margin-left: 256px;
+    background: white;
+    position: absolute;
+    width: 256px;
+    height: 256px;
+    border-radius: 50%;   
+}
+
+#contShdw2-1-3{
+    margin-top: 186px;
+    margin-left: 256px;
+    background: white;
+    position: absolute;
+    width: 256px;
+    height: 256px;
+    border-radius: 50%;   
+}
+
+#contShdw2-1-4{
+    margin-top: 186px;
+    margin-left: 256px;
+    background: white;
+    position: absolute;
+    width: 256px;
+    height: 256px;
+    border-radius: 50%;   
+}
+
+/* Shadow for 16 block Top Right */
+#contShdw2-2-1{
+    margin-left: 512px;
+    margin-top: 185px;
+    background: white;
+    position: absolute;
+    width: 256px;
+    height: 256px;
+    border-radius: 50%;   
+}
+#contShdw2-2-2{
+     margin-left: 512px;
+    margin-top: 185px;
+    background: white;
+    position: absolute;
+    width: 256px;
+    height: 256px;
+    border-radius: 50%;   
+}
+#contShdw2-2-3{
+    margin-left: 512px;
+    margin-top: 185px;
+    background: white;
+    position: absolute;
+    width: 256px;
+    height: 256px;
+    border-radius: 50%;   
+}
+#contShdw2-2-4{
+    margin-left: 512px;
+    margin-top: 185px;
+    background: white;
+    position: absolute;
+    width: 256px;
+    height: 256px;
+    border-radius: 50%;   
+}
+
+/* Shadow for 16 block Bottom Left */
+#contShdw2-3-1{
+    margin-left: 255px;
+    margin-top: 440px;
+    background: white;
+    position: absolute;
+    width: 256px;
+    height: 256px;
+    border-radius: 50%;   
+}
+#contShdw2-3-2{
+    margin-left: 255px;
+    margin-top: 440px;
+    background: white;
+    position: absolute;
+    width: 256px;
+    height: 256px;
+    border-radius: 50%;   
+}
+#contShdw2-3-3{
+    margin-left: 255px;
+    margin-top: 440px;
+    background: white;
+    position: absolute;
+    width: 256px;
+    height: 256px;
+    border-radius: 50%;   
+}
+#contShdw2-3-4{
+    margin-left: 255px;
+    margin-top: 440px;
+    background: white;
+    position: absolute;
+    width: 256px;
+    height: 256px;
+    border-radius: 50%;   
+}
+
+/* Shadow for 16 block Bottom Left */
+#contShdw2-4-1{
+    margin-left: 512px;
+    margin-top: 440px;
+    background: white;
+    position: absolute;
+    width: 256px;
+    height: 256px;
+    border-radius: 50%;   
+}
+#contShdw2-4-2{
+    margin-left: 512px;
+    margin-top: 440px;
+    background: white;
+    position: absolute;
+    width: 256px;
+    height: 256px;
+    border-radius: 50%;   
+}
+#contShdw2-4-3{
+    margin-left: 512px;
+    margin-top: 440px;
+    background: white;
+    position: absolute;
+    width: 256px;
+    height: 256px;
+    border-radius: 50%;   
+}
+#contShdw2-4-4{
+  margin-left: 512px;
+    margin-top: 440px;
+    background: white;
+    position: absolute;
+    width: 256px;
+    height: 256px;
+    border-radius: 50%;   
+}
+
+
+/*----------------------------------*/
+#cont2-1-1 {
+    position: absolute;
+    width: 128px;
+    height: 128px;
+    background: white;
+    border-radius: 50%;
+    overflow: hidden;
+    top: 0%;
+    margin-left: 256px;
+    margin-top: 180px;
+}
+
+#cont2-1-2 {
+    position: absolute;
+    width: 128px;
+    height: 128px;
+    background: white;
+    border-radius: 50%;
+    overflow: hidden;
+    top: 0%;
+    margin-left: 385px;
+    margin-top: 180px;
+}
+
+#cont2-1-3 {
+   position: absolute;
+    width: 128px;
+    height: 128px;
+    background: white;
+    border-radius: 50%;
+    overflow: hidden;
+    top: 0%;
+    margin-left: 256px;
+    margin-top: 308px;    
+}
+
+#cont2-1-4 {
+ position: absolute;
+    width: 128px;
+    height: 128px;
+    background: white;
+    border-radius: 50%;
+    overflow: hidden;
+    top: 0%;
+    margin-left: 385px;
+    margin-top: 308px;
+}
+
+#cont2-2-1 {
+   position: absolute;
+    width: 128px;
+    height: 128px;
+    background: white;
+    border-radius: 50%;
+    overflow: hidden;
+    top: 0%;
+    margin-left: 520px;
+    margin-top: 180px;
+}
+
+#cont2-2-2 {
+    position: absolute;
+    width: 128px;
+    height: 128px;
+    background: white;
+    border-radius: 50%;
+    overflow: hidden;
+    top: 0%;
+    margin-left: 650px;
+    margin-top: 180px;
+}
+
+#cont2-2-3 {
+    position: absolute;
+    width: 128px;
+    height: 128px;
+    background: white;
+    border-radius: 50%;
+    overflow: hidden;
+    top: 0%;
+    margin-left: 520px;
+    margin-top: 308px;
+}
+
+#cont2-2-4 {
+    position: absolute;
+    width: 128px;
+    height: 128px;
+    background: white;
+    border-radius: 50%;
+    overflow: hidden;
+    top: 0%;
+    margin-left: 650px;
+    margin-top: 308px;
+}
+
+#cont2-3-1 {
+    position: absolute;
+    width: 128px;
+    height: 128px;
+    background: white;
+    border-radius: 50%;
+    overflow: hidden;
+    top: 0%;
+    margin-left: 256px;
+    margin-top: 445px;
+}
+
+#cont2-3-2 {
+ position: absolute;
+    width: 128px;
+    height: 128px;
+    background: white;
+    border-radius: 50%;
+    overflow: hidden;
+    top: 0%;
+    margin-left: 385px;
+    margin-top: 445px;
+}
+
+#cont2-3-3 {
+    position: absolute;
+    width: 128px;
+    height: 128px;
+    background: white;
+    border-radius: 50%;
+    overflow: hidden;
+    top: 0%;
+    margin-left: 256px;
+    margin-top: 574px;
+}
+
+#cont2-3-4 {
+    position: absolute;
+    width: 128px;
+    height: 128px;
+    background: white;
+    border-radius: 50%;
+    overflow: hidden;
+    top: 0%;
+    margin-left: 385px;
+    margin-top: 574px;
+}
+
+#cont2-4-1 {
+    position: absolute;
+    width: 128px;
+    height: 128px;
+    background: white;
+    border-radius: 50%;
+    overflow: hidden;
+    top: 0%;
+    margin-left: 520px;
+    margin-top: 445px;
+}
+
+#cont2-4-2 {
+    position: absolute;
+    width: 128px;
+    height: 128px;
+    background: white;
+    border-radius: 50%;
+    overflow: hidden;
+    top: 0%;
+    margin-left: 650px;
+    margin-top: 445px;
+}
+
+#cont2-4-3 {
+    position: absolute;
+    width: 128px;
+    height: 128px;
+    background: white;
+    border-radius: 50%;
+    overflow: hidden;
+    top: 0%;
+    margin-left: 520px;
+    margin-top: 574px;
+}
+
+#cont2-4-4 {
+    position: absolute;
+    width: 128px;
+    height: 128px;
+    background: white;
+    border-radius: 50%;
+    overflow: hidden;
+    top: 0%;
+    margin-left: 650px;
+    margin-top: 574px;
+}
+
+.imgfill {
+    max-width: 100%;
+    height: 100%;
+}
+    
+#leftColumn {
+    background-color: #ececec;
+    padding-bottom: 32.5%;
+    opacity: 0.7;
+    margin-left: 0;
+}
+
+#leftColumnFoot {
+    margin-top: 25em;
+}
+
+#LangSelect {
+    padding-top: 5em;
+    padding-left: 3em;
+}
+#MainContainer {
+    margin-left: 0;
+    margin-right: 0;
+    margin: 0;
+}
+
+#backgroundImage {
+  position: fixed; 
+  top: 0; 
+  left: 0; 
+    
+	
+  /* Preserve aspet ratio */
+  min-width: 100%;
+  min-height: 100%;
+    
+    z-index: -1; 
+    }
+.bottomRight{
+    position: absolute; 
+    bottom: 5px;
+    right: 100px;   
+}
+
+.bottomleft {
+    position: absolute; 
+    bottom: 5px;
+    left: 100px;
+    
+}
+
+#logo {
+    opacity: 1.0;
+    width:100%;
+}
+
+#logo:hover {
+    opacity: 0.7;
+}
+
+/*text for hashtag */
+
+
+.HashTags {
+    position: absolute;
+    margin: auto;
+    top: 40%;
+    text-align: center;
+    background-color: transparent;
+    text-shadow: 4px 4px 15px #000000;
+    color: white;
+    margin-left: 15%;
+    margin-right: 15%;
+    max-width: 100%;
+    overflow:auto;
+}
+
+h4 {
+
+    font-size: 1.15em;
+}
+
+.HashTagsTopLeft {
+
+}
+
+.HashTags-1block {
+    position: absolute;
+    margin: auto;
+    top: 45%;
+    text-align: center;
+    background-color: transparent;
+    text-shadow: 4px 4px 15px #000000;
+    color: white;
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-right: 15%;
+    max-width: 100%;
+    overflow:auto;
+}
+
+
