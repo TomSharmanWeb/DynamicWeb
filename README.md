@@ -46,7 +46,7 @@ Your blog will have **7 posts** (details in the links below):
 
 - Below The API
 
-	[Slides](http://) [PDF](http://)
+	[Slides](http://) [PDF](https://github.com/TomSharmanWeb/DynamicWeb/blob/master/Presentations/Below%20The%20API%20Presentation.pdf)
 
 
 - jQuery Fundamentals
@@ -56,7 +56,7 @@ Your blog will have **7 posts** (details in the links below):
 
 - Formative
 
-	[Slides](http://) [PDF](http://)
+	[Slides](http://) [PDF](https://github.com/TomSharmanWeb/DynamicWeb/blob/master/Presentations/HashtagChristmas%20Formative%20Presentation.pdf)
 
 
 - Summative 
