@@ -9,9 +9,7 @@ Ravensbourne Web Media Level 2 - Dynamic Web Unit WEB14203
 
 ![HashtagChristmas](https://github.com/TomSharmanWeb/DynamicWeb/blob/master/Blog%20Posts/Img/Live%20Demo.png)
 
-[View it Live!](http://thejats.github.io/hashtagChristmas/)
-
-[View Github Repo](http://)
+[View it Live!](http://thejats.github.io/hashtagChristmas/) | [View Github Repo](http://)
 
 ## Resources
 
