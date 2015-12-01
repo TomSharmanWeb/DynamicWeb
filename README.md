@@ -3,8 +3,11 @@ Ravensbourne Web Media Level 2 - Dynamic Web Unit WEB14203
 
 ##Introduction
 
+In the Dynamic Web Unit, I have developed my skills in Javascript, jQuery, Node.js and many more libraries and scripts. I have found it a great experience, all be it very challenging. It has been very creative from the research and planning for our Filter Bubbles project, to the execution to present a working project that displays data visualisations and relates to Filter Bubbles.
 
+In this GitHub Repository, you will find links to my research, mockups, mind maps, Walkthroughs, Blog Posts and Presentations. 
 
+Get In Touch: [Email Me](mailto:contact@tomsharman.com)
 
 ## HashtagChristmas Project
 
