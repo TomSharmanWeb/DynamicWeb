@@ -62,10 +62,7 @@ Here are my blog posts for this unit:
 
 - *Filter Bubbles* 
 
-	[Github](http://) | [Medium](http://) | [Slides](http://)
-	
-	**TO DO** - Reflection Blog
-	
+	[Github](https://github.com/TomSharmanWeb/DynamicWeb/blob/master/Blog%20Posts/Personal%20Evaluation/project_evaluation:_personal_contribution.md) 
 
 
 ### Presentations
