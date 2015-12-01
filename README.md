@@ -37,13 +37,11 @@ Here are my blog posts for this unit:
   
 - Peer learning
  
-	** To Do ** - Reflection from Feedback on Below API presentation
-
+	 [Github](https://github.com/TomSharmanWeb/DynamicWeb/blob/master/Blog%20Posts/Mini%20Lesson%20Peer%20Feedback/mini_lesson_-_peer_feedback.md)
 
 - *Filter Bubbles* experiments
 
 	[Github](https://github.com/TomSharmanWeb/DynamicWeb/blob/master/Blog%20Posts/Code%20Progression/progress_with_code.md)
-
 
 - Peer learning
 
@@ -62,6 +60,8 @@ Here are my blog posts for this unit:
 - *Filter Bubbles* 
 
 	[Github](http://) | [Medium](http://) | [Slides](http://)
+	
+	**TO DO** - Reflection Blog
 	
 
 
