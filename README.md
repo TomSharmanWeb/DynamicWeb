@@ -90,3 +90,12 @@ Here are my blog posts for this unit:
 	** To Do **
 	
 	[Slides](https://docs.google.com/presentation/d/1TaC34toUVc62x_jdL39RYyDFXOTtZ27pcvTW_iQXa9E/edit?usp=sharing) | [PDF](http://)
+	
+  
+___
+
+#### **Keep In Touch**
+
+[Website](http://tomsharman.com) | [Twitter](http://twitter.com/tomsharmanweb) | [Medium](https://medium.com/@TOMSHARMAN)
+
+Tom. 
