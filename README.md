@@ -89,7 +89,7 @@ Here are my blog posts for this unit:
 - Summative 
 
 	
-	[Slides](https://docs.google.com/presentation/d/1TaC34toUVc62x_jdL39RYyDFXOTtZ27pcvTW_iQXa9E/edit?usp=sharing) | [PDF](http://) | [Notes]()
+	[Slides](https://docs.google.com/presentation/d/1TaC34toUVc62x_jdL39RYyDFXOTtZ27pcvTW_iQXa9E/edit?usp=sharing) | [PDF](https://github.com/TomSharmanWeb/DynamicWeb/blob/master/Presentations/HashtagChristmas%20Summative%20Presentation.pdf) | [Notes](https://docs.google.com/document/d/169BVfQBEeHMcr6hm-7yWsLV2zaVkJO-bK-fAS4z2Wko/edit?usp=sharing)
 	
   
 ___
