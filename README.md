@@ -1,6 +1,10 @@
 # DynamicWeb
 Ravensbourne Web Media Level 2 - Dynamic Web Unit WEB14203
 
+[**View My Github Repo**](https://github.com/TomSharmanWeb/DynamicWeb)
+
+[**View Team's Github Repo**](https://github.com/theJATs/hashtagChristmas)
+
 ##Introduction
 
 In the Dynamic Web Unit, I have developed my skills in Javascript, jQuery, Node.js and many more libraries and scripts. I have found it a great experience, all be it very challenging. It has been very creative from the research and planning for our Filter Bubbles project, to the execution to present a working project that displays data visualisations and relates to Filter Bubbles.
@@ -83,10 +87,9 @@ Here are my blog posts for this unit:
 
 
 - Summative 
+
 	
-	** To Do **
-	
-	[Slides](https://docs.google.com/presentation/d/1TaC34toUVc62x_jdL39RYyDFXOTtZ27pcvTW_iQXa9E/edit?usp=sharing) | [PDF](http://)
+	[Slides](https://docs.google.com/presentation/d/1TaC34toUVc62x_jdL39RYyDFXOTtZ27pcvTW_iQXa9E/edit?usp=sharing) | [PDF](http://) | [Notes]()
 	
   
 ___
